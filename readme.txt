@@ -1,3 +1,4 @@
+Just add a new branch.
 Creating a new branch is quick and simple.
 Stupid!
 Git is a distributed version control system.
